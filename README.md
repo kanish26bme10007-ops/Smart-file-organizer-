@@ -1,3 +1,4 @@
+## Smart file organizer
 ## Project overview 
     Smart File Organizer is a Python-based application that
     automatically organizes files into categories such as
